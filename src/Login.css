@@ -1,0 +1,53 @@
+.login-container {
+  background-color: #007bff; /* Primary blue background */
+  color: white; /* White text color */
+  padding: 20px;
+  border-radius: 10px;
+  width: 300px;
+  margin: auto;
+}
+
+.input-field {
+  width: 100%;
+  padding: 10px;
+  margin: 5px 0;
+  border: none;
+  border-radius: 5px;
+}
+
+.signin-button {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: none;
+  border-radius: 5px;
+  background-color: #28a745; /* Green button */
+  color: white; /* White text color */
+  cursor: pointer;
+}
+
+.signin-button:hover {
+  background-color: #218838; /* Darker green on hover */
+}
+
+.links-container {
+  margin-top: 10px;
+  text-align: center;
+}
+
+.links-container a {
+  color: white; /* White text color for links */
+}
+
+.links-container a:hover {
+  text-decoration: underline;
+} 
+  
+.input-error {
+  border-color: red;
+}
+
+/* .error {
+  color: red;
+  font-size: 12px;
+} */
